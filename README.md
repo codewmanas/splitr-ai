@@ -1,8 +1,11 @@
-# Splitr 💸 – AI-Powered Expense Manager & Smart Settlements
+<h1 align="center"> Splitr 💸 – AI-Powered Expense Manager & Smart Settlements </h1>
+<div align="center">
 
-![Splitr Banner](https://your-banner-url.com/banner.png) <!-- Optional: Replace with actual banner -->
+![Splitr Banner](./banner.png)
 
 Splitr is a sleek, AI-driven web app that helps you manage personal and group expenses effortlessly. Inspired by Splitwise, Splitr lets you track expenses, settle debts smartly, analyze spending with real-time dashboards, and receive AI-powered insights and reminders. Built with modern tools like **Next.js**, **Convex**, **Gemini AI**, and **ShadCN UI**, it offers blazing-fast performance and a clean, responsive design.
+
+</div>
 
 ---
 
@@ -48,9 +51,13 @@ Splitr is a sleek, AI-driven web app that helps you manage personal and group ex
 
 ## 📸 UI Preview
 
+<div align="center">
+
 ![Splitr UI Preview](./image.png)
 
 > It's a fresh launch, so the dashboard is looking a bit empty—no expenses yet, haha! 🎉
+
+</div>
 
 ---
 
@@ -101,16 +108,12 @@ GEMINI_API_KEY=
 
 Want to contribute or suggest a feature? Open an issue or pull request! For other queries:
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🌐 Website: [splitr.ai](https://splitr.ai) *(coming soon)*
+<p>
+📧 Email: <a href="mailto:manas.kolaskar@somaiya.edu">My Mail</a><br>
+</p>
 
 ---
 
-## 🙌 Contributing
-
-We welcome contributions! Please check back for our `CONTRIBUTING.md` and contribution guidelines soon.
-
-
----
-
-> Made with ❤️ by Manas and the Splitr team.
+<p>
+Made with ❤️ by Manas and the Splitr team.
+</p>

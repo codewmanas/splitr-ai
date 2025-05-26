@@ -10,6 +10,23 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Splitr",
   description: "The smartest way to split expenses with friends",
+  favicon: "/logos/logo-s.png",
+  openGraph: {
+    title: "Splitr",
+    description: "The smartest way to split expenses with friends",
+    url: "https://splitr-ai.vercel.app",
+    siteName: "Splitr",
+    images: [
+      {
+        url: "./banner.png",
+        width: 1200,
+        height: 630,
+        alt: "Splitr Logo",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {
