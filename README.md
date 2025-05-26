@@ -3,7 +3,9 @@
 <a href="https://splitr-ai.vercel.app/">
 <img src="./banner.png" align="center" width="full" />
 </a>
-
+  
+---
+  
 Splitr is a sleek, AI-driven web app that helps you manage personal and group expenses effortlessly. Inspired by Splitwise, Splitr lets you track expenses, settle debts smartly, analyze spending with real-time dashboards, and receive AI-powered insights and reminders. Built with modern tools like **Next.js**, **Convex**, **Gemini AI**, and **ShadCN UI**, it offers blazing-fast performance and a clean, responsive design.
 
 </div>
@@ -50,14 +52,6 @@ Splitr is a sleek, AI-driven web app that helps you manage personal and group ex
 
 ---
 
-## 📸 UI Preview
-
-<div align="center">
-
-![Splitr UI Preview](./image.png)
-
-> It's a fresh launch, so the dashboard is looking a bit empty—no expenses yet, haha! 🎉
-
 </div>
 
 ---
@@ -71,7 +65,7 @@ Clone the repository and set up your environment:
 git clone https://github.com/codewmanas/splitr-ai.git
 
 # Navigate to the project folder
-cd splitr
+cd splitr-ai
 
 # Install dependencies
 npm install
