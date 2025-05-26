@@ -1,7 +1,8 @@
 <h1 align="center"> Splitr 💸 – AI-Powered Expense Manager & Smart Settlements </h1>
 <div align="center">
-
-![Splitr Banner](./banner.png)
+<a href="https://splitr-ai.vercel.app/">
+<img src="./banner.png" align="center" width="full" />
+</a>
 
 Splitr is a sleek, AI-driven web app that helps you manage personal and group expenses effortlessly. Inspired by Splitwise, Splitr lets you track expenses, settle debts smartly, analyze spending with real-time dashboards, and receive AI-powered insights and reminders. Built with modern tools like **Next.js**, **Convex**, **Gemini AI**, and **ShadCN UI**, it offers blazing-fast performance and a clean, responsive design.
 
